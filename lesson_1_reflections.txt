@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The program pointed out to me exactly where the issue was. For larger files 
+    this is important because it twould take too long to manually inspect it.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you change something and need to see how or why a change was made it can
+    be helpful to go back and see what happened rather than the code final end
+    state.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros would be if you are experimenting with new code you can chose when your
+    code is ready to be committed vs having to roll back after your unfinished
+    code is published.  Cons are if you're busy you may forget to perform
+    regular commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Documents in Google Docs are likely to be separate and isolated.  Git does
+    this because multiple files in a change can be related per logical code
+    change.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log can show you what the logical changes were for each commit 
+    (assuming they are correct).  git diff shows you precise changes from commit
+    to commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I can always go back to an older version that works.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git to be a better developer.  It seems much easier to do
+    file versioning in Git than it does in SubVersion.  I have never had a
+    consistent source code versioning process so I'm excited to try it out!
