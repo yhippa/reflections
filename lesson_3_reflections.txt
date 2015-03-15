@@ -28,7 +28,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would probably use a shared drive like Dropbox.  I could email files to
+    other people.  Lastly I could put the code on a USB drive and walk it or
+    deliver it to someone.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
